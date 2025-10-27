@@ -1,7 +1,5 @@
 fastapi
-uvicorn[standard]
-stripe
-requests
-firebase-admin
-python-dotenv
+uvicorn
+python-multipart
 pydantic
+requests
